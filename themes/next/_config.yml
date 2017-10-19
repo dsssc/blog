@@ -92,6 +92,7 @@ menu:
   #schedule: /schedule/ || calendar
   sitemap: /sitemap.xml || sitemap
   commonweal: /assets/404/ || heartbeat
+  shareVideo: /share/ || bus
 
 # Enable/Disable menu icons.
 menu_icons:
