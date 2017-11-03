@@ -1,7 +1,10 @@
 ---
 title: Ubuntu16.04下配置redis
 date: 2017-11-03 15:44:43
-tags: Ubuntu,linux,redis
+tags: 
+    - Ubuntu
+    - linux
+    - redis
 category: linux
 ---
 # 下载redis
